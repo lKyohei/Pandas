@@ -1,5 +1,7 @@
 # %%
 import pandas as pd
+#%%
+print("Hello world!!")
 # %%
 idades = [30,42,90,34]
 idades
