@@ -1,7 +1,7 @@
 # %%
 import pandas as pd
 #%%
-print("Hello world!!")
+print("Hello world!!2")
 # %%
 idades = [30,42,90,34]
 idades
